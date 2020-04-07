@@ -4,5 +4,5 @@ Work related to the COVID-19 X-Ray Project
 
 ## Sources:
 Images used for this project were gathered from two sources:
-- https://github.com/ieee8023/covid-chestxray-dataset
-- https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+- [COVID-19 Image Data Collection](https://github.com/ieee8023/covid-chestxray-dataset)
+- [Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification](https://data.mendeley.com/datasets/rscbjbr9sj/2) [[citation]](http://dx.doi.org/10.17632/rscbjbr9sj.2#file-41d542e7-7f91-47f6-9ff2-dd8e5a5a7861)
