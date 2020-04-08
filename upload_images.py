@@ -19,7 +19,6 @@ parser.add_argument(
     help="API Key for the App that is being used.",
 )
 
-
 def main(args):
     print("API Key: {}".format(args.api_key))
     app = ClarifaiApp(api_key=args.api_key)
