@@ -1,6 +1,11 @@
 # hackday-covid19-xrays
 Work related to the COVID-19 X-Ray Project
 
+## Use
+
+In order to use the application you will need to have access to the Clarifai application.
+Please feel free to reach out to the creator for access.
+
 
 ## Sources:
 Images used for this project were gathered from two sources:
